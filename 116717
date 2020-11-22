@@ -1,0 +1,31 @@
+Misión y Vision
+<html>	
+	<head>
+	<title>IPC</title>
+	<link rel="stylesheet"type="text/css"href="styles.css"/>
+	<link rel="stylesheet"type="text/css"href="styles.css"/>
+	</head>
+	<body>
+	<hr>
+	<header> <img src=“ipc.jpg" widh="40" height="50">La mejor madera al mejor precio</header> <br>
+	<hr>
+	<a href=“historia.html" class="greenlink">
+	Historia
+	</a>
+	&nbsp;
+	<a href=“Mision y Vision.html" class="greenlink">
+	Misión y Vision
+	</a>
+	&nbsp;
+<a href=“Prestación.html" class="greenlink">
+	Contrato
+	</a> 
+	<hr>
+	<h1>Historia</h1>
+	<h2>MIsion</h2>
+	<p>Somos una entidad educativa de dieciséis años de experiencia dedicada a la formación constructivista de jóvenes estudiantes del nivel medio que ofrece a la sociedad guatemalteca trabajadores altamente calificados en las ciencias de administración, contables, secretariales e informáticas; y que además poseen una sustentación humanística de primer nivel.</p>
+<h2> Vision </h2>
+<p> Ser un centro educativo insignia en la educación responsable de jóvenes que se promuevan competentes según los estándares nacionales e internacionales, a través del ejercicio profesional de una formación significativa.</p>
+<center> <img src=“ipc.jpg" widh="100%" height="100%"> </center>
+</body>
+</html>
